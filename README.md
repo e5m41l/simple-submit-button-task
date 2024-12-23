@@ -19,3 +19,7 @@ Follow these steps to set up the project locally.
 - Requests library (for making HTTP requests)
 
 
+
+
+https://github.com/user-attachments/assets/5240e2a1-0beb-449e-8102-f9beb612f94e
+
